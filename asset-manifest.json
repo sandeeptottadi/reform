@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/reform/static/css/main.20030b1d.css",
-    "main.js": "/reform/static/js/main.da1533f2.js",
+    "main.css": "/reform/static/css/main.40252b9a.css",
+    "main.js": "/reform/static/js/main.943debac.js",
     "static/js/453.e5bb2586.chunk.js": "/reform/static/js/453.e5bb2586.chunk.js",
     "static/media/read.svg": "/reform/static/media/read.aa00120f140277e89bcfe6ad587ed8de.svg",
     "static/media/windmill.svg": "/reform/static/media/windmill.ab983c87250fe8d176453ef569bd289d.svg",
@@ -22,12 +22,12 @@
     "static/media/yellow.jpg": "/reform/static/media/yellow.de063ff1431d7dd7d01a.jpg",
     "static/media/star.svg": "/reform/static/media/star.c9b51aed6b51d428438c19b85fe4be47.svg",
     "index.html": "/reform/index.html",
-    "main.20030b1d.css.map": "/reform/static/css/main.20030b1d.css.map",
-    "main.da1533f2.js.map": "/reform/static/js/main.da1533f2.js.map",
+    "main.40252b9a.css.map": "/reform/static/css/main.40252b9a.css.map",
+    "main.943debac.js.map": "/reform/static/js/main.943debac.js.map",
     "453.e5bb2586.chunk.js.map": "/reform/static/js/453.e5bb2586.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.20030b1d.css",
-    "static/js/main.da1533f2.js"
+    "static/css/main.40252b9a.css",
+    "static/js/main.943debac.js"
   ]
 }
