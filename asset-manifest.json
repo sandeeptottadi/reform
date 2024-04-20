@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/reform/static/css/main.8f1d5070.css",
+    "main.js": "/reform/static/js/main.c0ad4b8a.js",
+    "static/js/453.e5bb2586.chunk.js": "/reform/static/js/453.e5bb2586.chunk.js",
+    "static/media/backdrop.png": "/reform/static/media/backdrop.383887b79090ead0f067.png",
+    "static/media/place your image (4).png": "/reform/static/media/place your image (4).4cc485f41b00a6d7613c.png",
+    "static/media/place your image.png": "/reform/static/media/place your image.c948ea4c24c0ece3a7ee.png",
+    "static/media/place your image (5).png": "/reform/static/media/place your image (5).89ee504145cee45b774b.png",
+    "static/media/place your image (2).png": "/reform/static/media/place your image (2).27ec221de19099daf931.png",
+    "static/media/place your image (3).png": "/reform/static/media/place your image (3).16df02b100a78ef35fdf.png",
+    "static/media/place your image (1).png": "/reform/static/media/place your image (1).ce64b47dd05647f7bc50.png",
+    "static/media/albert-sans-light.ttf": "/reform/static/media/albert-sans-light.777206c27598e5693ebb.ttf",
+    "static/media/albert-sans.ttf": "/reform/static/media/albert-sans.777206c27598e5693ebb.ttf",
+    "static/media/contactbg.png": "/reform/static/media/contactbg.dd9d900cabd8d7a9e0a5.png",
+    "static/media/hands.jpg": "/reform/static/media/hands.bfc3ca6875e126ae6f8c.jpg",
+    "static/media/phone-call.svg": "/reform/static/media/phone-call.b170f10e83c3f52d76114c381c9754c5.svg",
+    "static/media/user_profile1.png": "/reform/static/media/user_profile1.1742609ed809208bff91.png",
+    "static/media/star.svg": "/reform/static/media/star.c9b51aed6b51d428438c19b85fe4be47.svg",
+    "index.html": "/reform/index.html",
+    "main.8f1d5070.css.map": "/reform/static/css/main.8f1d5070.css.map",
+    "main.c0ad4b8a.js.map": "/reform/static/js/main.c0ad4b8a.js.map",
+    "453.e5bb2586.chunk.js.map": "/reform/static/js/453.e5bb2586.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8f1d5070.css",
+    "static/js/main.c0ad4b8a.js"
+  ]
+}
