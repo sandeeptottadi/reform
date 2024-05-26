@@ -31,7 +31,7 @@ export default function Home() {
 
   return (
     <div>
-      <BrowserRouter basename="/reform">
+      <BrowserRouter basename="">
         <Privacy_policy_model />
         <Terms_of_use_model />
         <Sidebar />
