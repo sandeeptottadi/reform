@@ -1,11 +1,9 @@
 {
   "files": {
-    "main.css": "/reform/static/css/main.bd78bf6a.css",
-    "main.js": "/reform/static/js/main.90566e17.js",
+    "main.css": "/reform/static/css/main.d8d3acc4.css",
+    "main.js": "/reform/static/js/main.dbfab033.js",
     "static/js/453.e5bb2586.chunk.js": "/reform/static/js/453.e5bb2586.chunk.js",
     "static/media/hands.svg": "/reform/static/media/hands.d7f7c40f20cb6bf447a156dfdf8589f9.svg",
-    "static/media/read.svg": "/reform/static/media/read.aa00120f140277e89bcfe6ad587ed8de.svg",
-    "static/media/windmill.svg": "/reform/static/media/windmill.ab983c87250fe8d176453ef569bd289d.svg",
     "static/media/backdrop.png": "/reform/static/media/backdrop.383887b79090ead0f067.png",
     "static/media/place your image (4).png": "/reform/static/media/place your image (4).4cc485f41b00a6d7613c.png",
     "static/media/place your image.png": "/reform/static/media/place your image.c948ea4c24c0ece3a7ee.png",
@@ -17,22 +15,20 @@
     "static/media/albert-sans-light.ttf": "/reform/static/media/albert-sans-light.777206c27598e5693ebb.ttf",
     "static/media/albert-sans.ttf": "/reform/static/media/albert-sans.777206c27598e5693ebb.ttf",
     "static/media/contactbg.png": "/reform/static/media/contactbg.dd9d900cabd8d7a9e0a5.png",
-    "static/media/energy.png": "/reform/static/media/energy.cfbeb2333a118f993ce9.png",
     "static/media/reform.png": "/reform/static/media/reform.e6165cd3de5cd3a3a159.png",
     "static/media/white_logo.png": "/reform/static/media/white_logo.e6165cd3de5cd3a3a159.png",
     "static/media/phone-call.svg": "/reform/static/media/phone-call.b170f10e83c3f52d76114c381c9754c5.svg",
-    "static/media/yellow.jpg": "/reform/static/media/yellow.de063ff1431d7dd7d01a.jpg",
     "static/media/airb.svg": "/reform/static/media/airb.efff7e50018b25465fc80155b9901120.svg",
+    "index.html": "/reform/index.html",
     "static/media/twitter.svg": "/reform/static/media/twitter.9daa32183e9bdaed1f0b250f8fb98376.svg",
     "static/media/linkedin.svg": "/reform/static/media/linkedin.ecfead5b81d737029573efd3bfd47307.svg",
-    "index.html": "/reform/index.html",
     "static/media/facebook.svg": "/reform/static/media/facebook.c8c5c10fce4b71a66dd5e906e47cb864.svg",
-    "main.bd78bf6a.css.map": "/reform/static/css/main.bd78bf6a.css.map",
-    "main.90566e17.js.map": "/reform/static/js/main.90566e17.js.map",
+    "main.d8d3acc4.css.map": "/reform/static/css/main.d8d3acc4.css.map",
+    "main.dbfab033.js.map": "/reform/static/js/main.dbfab033.js.map",
     "453.e5bb2586.chunk.js.map": "/reform/static/js/453.e5bb2586.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd78bf6a.css",
-    "static/js/main.90566e17.js"
+    "static/css/main.d8d3acc4.css",
+    "static/js/main.dbfab033.js"
   ]
 }
