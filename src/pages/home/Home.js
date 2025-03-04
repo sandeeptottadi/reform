@@ -4,16 +4,13 @@ import Welcome from "../../components/Welcome/Welcome";
 import Services from "../../components/Services/Services";
 import ContactUs from "../../components/Contact/ContactUs";
 import About from "../../components/About/About";
-import Blogs from "../../components/Blog/Blogs";
 import styles from "../../components/Header/styles.module.css";
 import New_footer from "../../components/Footer/New_footer";
 import Sidebar from "../../components/Sidebar/Sidebar";
 import Privacy_policy_model from "../../components/Model/Privacyo_policy_model";
 import Terms_of_use_model from "../../components/Model/Terms_of_use_model";
-import { BrowserRouter, Router, Routes } from "react-router-dom";
-import Grant_schemes from "../../components/Grant_schemes/Grant_schemes";
+import { BrowserRouter } from "react-router-dom";
 import Thank_you_model from "../../components/Model/thank_you_model";
-import Testmonials from "../../components/Testmonials/Testmonials";
 
 export default function Home() {
   const scroll = useRef(null);
@@ -61,22 +58,6 @@ export default function Home() {
             <Services />
             <div className="divider_bar"></div>
           </section>
-          {/* <section id="grant-schemes">
-            <Grant_schemes />
-            <div className="divider_bar"></div>
-          // </section> */}
-          //{" "}
-          {/* <section id="testimonials">
-          // <Testmonials />
-        </section> */}
-          {/* <Partner /> */}
-          {/* <section id="blog">
-            <Blogs />
-            <div className="divider_bar"></div>
-          </section> */}
-          {/* <section id="testimonials">
-            <Testmonials />
-          </section> */}
           <section id="contact">
             <ContactUs />
           </section>
